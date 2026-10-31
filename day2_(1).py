@@ -1,0 +1,25 @@
+name="RE0"
+age=27
+job="工人"
+is_study=True
+print(name)
+print(age)
+my_age=27
+my_height=1.73
+my_name="Re0"
+print(f"我是{my_name},今年{my_age}岁,身高{my_height}米")
+name="RE0" 
+current_job="工人" 
+target_city="成都"
+target_job="软件测试工程师"
+daily_study_hours=4
+has_degree=False
+print("========个人档案========")
+print(f"姓名：{name}")
+print(f"当前职业：{current_job}")
+print(f"目标城市：{target_city}")
+print(f"目标岗位：{target_job}")
+print(f"每天学习时长：{daily_study_hours}小时")
+if has_degree==False:
+    print("学历状态：本科学历，产品设计专业，但正在用GitHub和作品集证明能力")   
+print("========================")
